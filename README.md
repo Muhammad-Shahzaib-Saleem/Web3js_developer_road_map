@@ -128,4 +128,5 @@ A quick road map for Web3js Developer.Who already know about the Basics of Progr
 
 ## #Resources for all above Content.
 
-- Inprogress.......Wait plz..............
+- Blockchain,Bitcoin and Ethereum (Module A,B and C) 
+ link: https://www.youtube.com/watch?v=VU59tR982W4&list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0
